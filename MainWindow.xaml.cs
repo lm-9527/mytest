@@ -61,7 +61,7 @@ namespace WpfLiveChartsTestApp
 
         }
 
-
+        //test
         public void Dispose()
         {
             var vm = (GearedViewModel)DataContext;
